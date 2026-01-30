@@ -43,6 +43,7 @@ This keeps your fork updated with the latest changes from the main project.
 git remote add upstream https://github.com/<original-owner>/<repo-name>.git
 ```
 
+
 To verify:
 
 ```bash
@@ -173,7 +174,7 @@ git checkout -b add-my-profile
 
 ---
 
-##  Useful Resources
+##  Useful Resources you can check out
 
 * [How to Fork and Clone a Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 * [Creating a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
