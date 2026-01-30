@@ -4,6 +4,43 @@
 
 ##  Getting Started
 
+# 🧰 Project Setup Guide – Frontend (Next.js)
+
+Welcome! Follow the steps below to set up this project on your local system.  
+This guide ensures you have the same environment as used during development.
+
+---
+
+## 🚀 1. Prerequisites
+
+Before starting, make sure the following tools are installed on your machine:
+
+| Tool | Required Version | Download Link |
+|------|------------------|----------------|
+| **Node.js** | v22.15.1 | [Download Node.js](https://nodejs.org/en/download) |
+| **npm** | (comes with Node.js) | — |
+| **Git** | Latest | [Download Git](https://git-scm.com/downloads) |
+| **VS Code** | Recommended | [Download VS Code](https://code.visualstudio.com/) |
+
+---
+
+## 🧩 2. Verify Installation
+
+Open your terminal and check versions:
+
+```bash
+node -v
+# Expected output: v22.15.1
+
+npm -v
+# Should show a version number (≥10)
+
+git --version
+# Should show a version number
+```
+
+
+
 Follow these steps carefully to contribute to this project.  
 Don’t worry — if you’re new to open source, this will be your perfect first PR!
 
@@ -69,7 +106,19 @@ Use meaningful branch names such as:
 
 ---
 
-###  5. Make your changes / solve ur issue
+###  5. Run The Project
+
+
+```bash
+npm install
+npm run dev
+```
+
+
+
+---
+
+###  6. Make your changes
 
 Now open the project in your code editor (like VS Code):
 
@@ -91,7 +140,7 @@ git status
 
 ---
 
-###  6. Stage and commit your changes
+###  7. Stage and commit your changes
 
 Add your changes:
 
@@ -107,7 +156,7 @@ git commit -m "Added my profile card (Your Name)"
 
 ---
 
-###  7. Push your branch to your fork
+###  8. Push your branch to your fork
 
 Now push the branch to your forked repository:
 
@@ -117,7 +166,7 @@ git push origin add-my-profile
 
 ---
 
-###  8. Create a Pull Request (PR)
+###  9. Create a Pull Request (PR)
 
 1. Go to your fork on GitHub.
 2. Click **“Compare & pull request”**.
