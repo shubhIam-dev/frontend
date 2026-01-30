@@ -69,7 +69,7 @@ Use meaningful branch names such as:
 
 ---
 
-###  5. Make your changes
+###  5. Make your changes / solve ur issue
 
 Now open the project in your code editor (like VS Code):
 
